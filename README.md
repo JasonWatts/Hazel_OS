@@ -1,4 +1,4 @@
-# Samson_OS
+# Hazel_OS
 Alexa-esque Voice Assistant for Operating Systems
 Made for the Operating Systems course at Westmont College
 
